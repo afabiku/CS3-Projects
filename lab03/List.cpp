@@ -2,7 +2,7 @@
 
 template<typename T>
 void idk(Collection<T> col) {
-    col.print();  // This will trigger the copy constructor when passing the argument by value
+    col.print();  //
 }
 
 int main(){
